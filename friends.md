@@ -29,6 +29,6 @@ Berikut Teman-teman saya di kelas:
 22. [Syakila Athaya Aufa](https://athayaaufa18.github.io/)
 23. [Tania Ananda Sari](https://taniaanandasari.github.io/)
 24. [Tm Dzaky Maulana](https://akbar2224.github.io/akbar2224/)
-25. [Wildanun Hasanah]()
+25. [Wildanun Hasanah](http://wildanunhasanah.github.io)
 26. [Yumna]()
 27. [Zamharira](https://zamharira09.github.io/)
