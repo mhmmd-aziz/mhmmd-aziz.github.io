@@ -4,6 +4,7 @@ title : "html link dan lists"
 ---
 
 ### penjelasan link list pada html 
+
 HTML link list adalah kumpulan tautan (link) yang disusun dalam bentuk daftar (list) di dalam halaman web menggunakan kode HTML.
 Dengan kata lain, HTML link list adalah daftar yang isinya link, dan biasanya digunakan untuk membuat menu navigasi, daftar referensi, atau daftar situs terkait.
 
