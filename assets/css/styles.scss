@@ -1,3 +1,12 @@
 ---
 ---
 @use "main";
+$bgcolor: blue;
+$textcolor: red;
+$fontsize: 25px;
+/*use the variables in the CSS*/
+body{
+    background-color: $bgcolor;
+    color: $textcolor;
+    font-size: $fontsize;
+}
